@@ -1,0 +1,22 @@
+.App{
+    width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+  
+.todo-input {
+    margin-bottom: 20px;
+}
+  
+.ant-checkbox-checked .ant-checkbox-inner {
+    background-color: #52c41a;
+    border-color: #52c41a;
+}
+  
+.ant-list-item {
+    border-bottom: 1px solid #f0f0f0;
+}
+  
